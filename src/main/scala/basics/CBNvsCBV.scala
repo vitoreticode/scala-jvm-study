@@ -1,3 +1,5 @@
+package basics
+
 object CBNvsCBV extends App {
 
     def calledByValue(x: Long): Unit = {

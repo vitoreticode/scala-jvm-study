@@ -1,3 +1,5 @@
+package basics
+
 object DefaultArgs extends App {
 
     def trFact(n: Int, acc: Int = 1): Int =

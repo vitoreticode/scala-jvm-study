@@ -1,3 +1,5 @@
+package basics
+
 object ValuesVariablesTypes extends App {
 
     // VALS ARE IMMUTABLE
